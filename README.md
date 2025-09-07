@@ -48,9 +48,5 @@ The dataset is compiled from WHO vaccination reports and contains 5 main files:
 - Certain regions still show **high disease incidence despite high coverage**, indicating data quality or other health factors.  
 - Vaccine introduction timelines vary significantly across WHO regions.  
 
----
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/vaccination-analysis.git
+
